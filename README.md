@@ -9,6 +9,6 @@ Use Ctrl + C instead of right click + copy, chrome does not copy the entire stri
 After placing the blueprint and supplying power (use editor extensions power source) wait a few minutes until all combinators update. It's done when ups is back to 60 again.
 The display should be viewed in editor mode (Ctrl+Shift+F11), there is an optimal zoom level when the wires are barely visible.
 
-The blueprint uses editor extensions by raiguard for larger power pole coverage and I also used quality extensively.
+The blueprint uses editor extensions by raiguard for larger power pole coverage, Extended Vanilla: Modular Logistics by DiegoPro_77, and I also used quality extensively.
 
 Enjoy!
